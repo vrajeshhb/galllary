@@ -4,14 +4,15 @@
       "name": "Movies",
       "videos": [
         {
-          "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
+          "description": "Aqua Lyrics || Zara Larsson - Lush Life (Lyrics)",
           "sources": [
-            "http://incident.net/v8/files/mp4/1.mp4"
+            "http://f.marvarid.net/klip/rus/zara-larsson-lush-life.mp4"
           ],
-          "subtitle": "By Blender Foundation",
+          "subtitle": "Aqua Lyrics",
           "thumb": "https://raw.githubusercontent.com/vrajeshhb/galllary/main/image.png",
-          "title": "Big Buck Bunny"
+          "title": "Zara Larsson - Lush Life (Lyrics)"
         },
+        
         {
           "description": "The first Blender Open Movie from 2006",
           "sources": [
@@ -19,7 +20,7 @@
           ],
           "subtitle": "By Blender Foundation",
           "thumb": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
-          "title": "Elephant Dream"
+          "title": "Zara Larsson - Lush Life (Lyrics)"
         },
         {
           "description": "HBO GO now works with Chromecast -- the easiest way to enjoy online video on your TV. For when you want to settle into your Iron Throne to watch the latest episodes. For $35.\nLearn how to use Chromecast with HBO GO and more at google.com/chromecast.",
